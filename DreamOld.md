@@ -25,4 +25,25 @@ Sziasztok 'ˇ'KenemiL
 
 English version:
 
-Soon to open, Hungary's first MCPE / BE MiniGames server! Information: Main Games: BedWars SkyWars, Team / Solo BattleRoyale (not sure) Smaller Games: Murder TNTRun Extras: Unique Plugins (some from the list) DreamHUB (Prepared) Rank systemized (i know not unique) Other Data: 1.X Discord Server: Soon! . . . We will soon contact you for more information. Hi, '' KenemiL
+Soon to open, Hungary's first MCPE / BE MiniGames server!
+Informations:
+Main Games:
+BedWars
+SkyWars, Team / Solo
+BattleRoyale (not sure)
+Smaller Games:
+Murder
+TNTRun
+Extras:
+Custom plugins
+(some from the list)
+DreamHUB (ready)
+Rank system is Hungarianized (I know not unique)
+Other data:
+The expected version of the server is: 1.X
+Discord server: Soon!
+.
+.
+.
+We will soon contact you for more information.
+Hi, '' KenemiL
