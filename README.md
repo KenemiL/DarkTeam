@@ -4,6 +4,6 @@ Unique Plugins
 Server file (Not sure)
 Plugins will be available in English!
 
-Thank you for using these plugins and files!
+Thank you for using these plugins and fil
 
-I'm sorry, the Hungarian plan was canceled!
+I'm sorry, the plan was canceled!
